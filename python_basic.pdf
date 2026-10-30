@@ -1,0 +1,13 @@
+Python Basics Notes
+What is Python?
+Python is a high-level, interpreted programming language known for its simplicity and readability.
+Variables and Data Types
+Python supports int, float, string, list, tuple, dictionary, and boolean data types.
+Control Flow
+Conditional statements include if, elif, and else. Loops include for and while loops.
+Functions
+Functions are defined using the def keyword and help in code reusability
+C++  Introduction
+The C++ programming language provides a model of memory and computation that closely matches that of most computers. In addition, it provides powerful and flexible mechanisms for abstraction; that is, language constructs that allow the programmer to introduce and use new types of objects that match the concepts of an application. Thus, C++ supports styles of programming that rely on fairly direct manipulation of hardware resources to deliver a high degree of efficiency plus higher-level styles of programming that rely on user-defined types to provide a model of data and computation that is closer to a human’s view of the task being performed by a computer. These higher-level styles of programming are often called data abstraction, object-oriented programming, and generic programming.
+C++ History
+In the early 1980's, also at Bell Laboratories, another programming language was created which was based upon the C language.This new language was developed by Bjarne Stroustrup and was called C++.  According to Stroustrup, the purpose of C++ is to make writing good programs easier and more pleasant for the individual programmer.When he designed C++, he added OOP (Object Oriented Programming) features to C without significantly changing the C component. Thus C++ is a "relative" of C, meaning that any valid C program is also a valid C++ program.
